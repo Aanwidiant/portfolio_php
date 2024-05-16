@@ -85,7 +85,7 @@
         </div>
         <div class="w-full self-center px-4 lg:w-1/2">
           <div class="mx-auto mt-10 lg:mt-0 lg:right-0">
-            <svg class="svgBolb mx-auto lg:scale-125" width="400" height="400" viewBox="0 0 280 318" xmlns="http://www.w3.org/2000/svg">
+            <svg class="svgBolb mx-auto scale-90 md:scale-125" width="400" height="400" viewBox="0 0 280 318" xmlns="http://www.w3.org/2000/svg">
               <defs>
                 <clipPath id="heroClip" class="translate-y-8">
                   <path d="M0 170.318 V0 L280 0 V297.564 C280 312.96 263.333 322.583 250 314.885 L10 176.321Z" />
